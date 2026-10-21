@@ -1,0 +1,8 @@
+{
+  "name": "Jack 老師 AI 命理系統",
+  "description": "結合八字、紫微斗數、易經與奇門遁甲的現代化 AI 命理與人生 GPS 決策輔助系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
